@@ -2,7 +2,10 @@
 "SinRuta" es un plugin para WordPress, que nos ayudará a cambiar las rutas o direcciones de las imágenes después de una migración o cambio de dirección en caso de que no se visualicen en el navegador.
 
 Basta con solo introducir la URL anterior, la nueva y dar un click, para que volvamos a ver nuestras imágenes.
-<pre>Ejemplo: http://bitcuantico.com , http://www.bitcuantico.com/ o http://www.bitcuantico.com/blog</pre>
+<pre>Ejemplo: 
+http://bitcuantico.com
+http://www.bitcuantico.com/
+http://www.bitcuantico.com/blog</pre>
 
 <strong>Instalación</strong>
 
